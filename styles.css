@@ -1,0 +1,10 @@
+.portefeille {
+    display: inline;
+    color: red;
+    border: 10px;
+    background-color: gray;
+}
+#titre {
+    background-color: gray;
+    font-size: x-large;
+}
